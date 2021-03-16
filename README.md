@@ -42,6 +42,15 @@ Now taking a look at where resources are allocated. This map highlights the hosp
 Poverty places people under a lot of tension, which affects their biological vulnerability and extrinsic vulnerabilities. There are many people who face disparities on the daily due to poverty and when we also consider a global pandemic, COVID-19 affecting everyone globally, these disparities exemplify even more. Our society has a huge gap when talking about resources and opportunities, Covid-19 has impacted these resources for people especially those that live in poverty. Access to wifi is important to children and people who work in order to continue their education and work, the WiFi Drive-up sites is one important resource that started during this pandemic.
 
 
-## Applied Libraries
+## Data Sources and Applied Libraries
+* arcgis.com ("Washington Covid-19 Case Dashboard")
+* Washington geospatial open data portal
+* kingcounty.gov ("Race and Ethnicity Dashboard")
+* Washington State Department of Health ("COVID-19 Data)
+* QGIS
+* Figma
+* GitHub
+
 
 ## Acknowledgements
+This project is intentioally for educational purposed assigned by the University of Washington GEOG 458
