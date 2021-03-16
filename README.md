@@ -1,7 +1,7 @@
 # COVID-19 Trends and Impacts in Washington State
 #### GEOG 548 | Hershey Lande, Feben Alemu, Nicole Lorenzo, Emenetu H, Habtamu Kabeto
 
-Access Full Datadashbaord [HERE](https://www.figma.com/file/0Vdz5wS3pe1kmTI0YW4oM5/458-Final-Project?node-id=0%3A1)
+Access Full Datadashbaord [HERE](https://www.figma.com/proto/0Vdz5wS3pe1kmTI0YW4oM5/458-Final-Project?node-id=66%3A19&viewport=1674%2C323%2C0.10464207082986832&scaling=scale-down)
 ## Project Description
 Evaluate and understand the factors that affect the general community and individual vulnerability to covid-19 through the use of a smartdashboard, analysis, and demographic in Washington state.
 
