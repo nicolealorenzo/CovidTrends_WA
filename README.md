@@ -8,8 +8,8 @@ Evaluate and understand the factors that affect the general community and indivi
 ## Project Goal
 The goal of this project is to identify and highlight the impacts and trends COVIDis-19 has created in the past year. We want to convey the correlation between high COVID-19 rates and poverty and accessibility fluctuate depending on which county you reside in.
 
-## Data Sources:
+## Data Sources
 
-## Applied Libraries:
+## Applied Libraries
 
-## Acknowledgements:
+## Acknowledgements
